@@ -1,0 +1,516 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$1$$anonfun$apply$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$2.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$3.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$main$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVRecordWriter$$anonfun$append$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVRecordWriter$.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVRecordWriter.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSource$$anon$1$$anonfun$4.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSource$$anon$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSource.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSourceOptions$.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSourceOptions.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CountMetrics$.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CountMetrics.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$2$$anonfun$apply$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$2.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$3.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$4.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$5.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$6.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$main$1.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSparkJobs$.class
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSparkJobs.class
+binary dependencies:
+11 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> C:\Program Files (x86)\Java\jdk1.8.0_192\jre\lib\rt.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\com.univocity\univocity-parsers\2.7.3\2d7b2cbe31d203333e0ce2b99ddb9f8afa03fc42\univocity-parsers-2.7.3.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-common\2.6.5\775c6ba9b08cf8ec42e27ea0730b69cc990c69ea\hadoop-common-2.6.5.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.4.0\2eebc2356fa310b7cc0308b672b08cecfe85eb70\spark-core_2.11-2.4.0.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> C:\Program Files (x86)\Java\jdk1.8.0_192\jre\lib\rt.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-common\2.6.5\775c6ba9b08cf8ec42e27ea0730b69cc990c69ea\hadoop-common-2.6.5.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.4.0\2eebc2356fa310b7cc0308b672b08cecfe85eb70\spark-core_2.11-2.4.0.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> C:\Program Files (x86)\Java\jdk1.8.0_192\jre\lib\rt.jar
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$$anonfun$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$$anonfun$1$$anonfun$apply$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$$anonfun$2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$$anonfun$3
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$$anonfun$main$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVRecordWriter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVRecordWriter$
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVRecordWriter$$anonfun$append$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVSource
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVSource$$anon$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVSource$$anon$1$$anonfun$4
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVSourceOptions
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CSVSourceOptions$
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CountMetrics
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark$CountMetrics$
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$2$$anonfun$apply$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$3
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$4
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$5
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$6
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2$$anonfun$main$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> ChessAnalysisSparkJobs
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> ChessAnalysisSparkJobs$
+used names:
+318 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> !=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> $anon
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> $conforms
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> &&
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> *
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> +
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> /
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> <init>
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ==
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> >
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> AbstractFunction4
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Any
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> AnyRef
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Array
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Boolean
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> BufferedReader
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> CSVRecordWriter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> CSVSource
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> CSVSourceOptions
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Char
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ChessAnalysisSpark
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ClassTag
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Configuration
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> CountMetrics
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> CsvParser
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> CsvParserSettings
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Double
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Exception
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> FSDataOutputStream
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> FileSystem
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> GZIPInputStream
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> InputStreamReader
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Int
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Iterator
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Long
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> None
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Option
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Ordering
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Path
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Predef
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Product
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> RDD
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ScalaRunTime
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Seq
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Serializable
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> SparkConf
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> SparkContext
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Statics
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> String
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> StringContext
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> Unit
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> _1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> _2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> _toString
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> a
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> add
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> apache
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> append
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> apply
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> args
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> arrayClass
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> asInstanceOf
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> b
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> beginParsing
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> canBuildFrom
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> chessRdd
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> close
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> collect
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> collection
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> columnCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> com
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> conf
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> create
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> csv
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> csvWriter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> delimiter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> drawCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> draws
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> draws_=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> eq
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> fieldDelimiter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> file
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> fileHeader
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> filePath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> finalizeHash
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> flatMap
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> foreach
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> format
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> fs
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> genericArrayOps
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> get
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> getFormat
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> globalUsedPct
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> globalUsedPct_=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> hadoop
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> headerMap
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> i
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> inpFile
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> io
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> is
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> isCompressed
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> isInstanceOf
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> isStopped
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> iterator
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> java
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> k
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> l
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> lLen
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> length
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> line
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> line_=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> longHash
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> lossCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> losses
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> losses_=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> map
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> materializeClassTag
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> math
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> mix
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> nonEmpty
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> open
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> opening
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> openingAgg
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> openingRdd
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> options
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> org
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> out
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> outputPath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> package
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> parallelize
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> parseNext
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> parser
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> parsers
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> path
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> r
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> rdd
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> rddToPairRDDFunctions
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> record
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> reduceByKey
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> reduceCountMetrics
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> refArrayOps
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> result
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> row
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> rows
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> runtime
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> s
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> sc
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> scala
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> setAppName
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> setDelimiter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> setLogLevel
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> setMaxCharsPerColumn
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> setQuote
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> settings
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> skipHeader
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> spark
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> stop
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> textQualifier
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> textQuote
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> toMap
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> toString
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> total
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> totalCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> totalGames
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> total_=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> trim
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> typedProductIterator
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> unary_!
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> univocity
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> unzipData
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> util
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> winCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> winPercent
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> wins
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> wins_=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> writeBytes
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> x
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> x$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> x$2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> x$3
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> zip
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> zipWithIndex
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> ||
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> $conforms
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> +
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> <init>
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> >
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Any
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> AnyRef
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Array
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> CSVRecordWriter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> CSVSource
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> CSVSourceOptions
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ChessAnalysisSpark2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ClassTag
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Configuration
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Double
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> FileSystem
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Long
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Ordering
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Path
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Predef
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> ScalaRunTime
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Seq
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> SparkConf
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> SparkContext
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> String
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> StringContext
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> StringOps
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Tuple3
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> Unit
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> _1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> _2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> apache
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> append
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> apply
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> arg$macro$1
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> arg$macro$2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> args
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> arrayClass
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> augmentString
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> canBuildFrom
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> chessRdd
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> close
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> collect
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> collection
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> conf
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> create
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> csvWriter
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> drawCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> draws
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> f
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> file
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> fileHeader
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> filePath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> flatMap
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> foreach
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> format
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> fs
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> get
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> globalUsedPct
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> globalUsedPercent
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> hadoop
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> headerMap
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> immutable
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> isStopped
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> iterator
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> length
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> lossCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> losses
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> map
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> materializeClassTag
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> math
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> opening
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> openingAgg
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> openingRdd
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> org
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> outputHeader
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> outputPath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> package
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> parallelize
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> println
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> r
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> reduce
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> refArrayOps
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> result
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> rows
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> s
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> sc
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> scala
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> setAppName
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> setLogLevel
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> sortBy
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> spark
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> stop
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> toLong
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> toMap
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> total
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> totalCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> totalPlays
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> unary_!
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> unary_-
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> winCount
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> winPercent
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> wins
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$10
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$11
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$12
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$4
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$5
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$6
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$7
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$8
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> x$9
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> zipWithIndex
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> <init>
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> >
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> AnyRef
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> Array
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> ChessAnalysisSpark
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> ChessAnalysisSpark2
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> ChessAnalysisSparkJobs
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> ClassTag
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> Predef
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> String
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> Unit
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> apply
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> args
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> filePath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> intermediatePath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> length
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> main
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> materializeClassTag
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> outputPath
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> package
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> scala
+product stamps:
+29 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$1$$anonfun$apply$1.class -> lastModified(1623230025039)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$1.class -> lastModified(1623230025035)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$2.class -> lastModified(1623230025041)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$3.class -> lastModified(1623230025044)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$$anonfun$main$1.class -> lastModified(1623230025046)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$.class -> lastModified(1623230025028)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CountMetrics$.class -> lastModified(1623230025150)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CountMetrics.class -> lastModified(1623230025148)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVRecordWriter$$anonfun$append$1.class -> lastModified(1623230025054)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVRecordWriter$.class -> lastModified(1623230025048)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVRecordWriter.class -> lastModified(1623230025051)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSource$$anon$1$$anonfun$4.class -> lastModified(1623230025131)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSource$$anon$1.class -> lastModified(1623230025129)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSource.class -> lastModified(1623230025059)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSourceOptions$.class -> lastModified(1623230025133)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark$CSVSourceOptions.class -> lastModified(1623230025135)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark.class -> lastModified(1623230024988)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$1.class -> lastModified(1623230025156)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$2$$anonfun$apply$1.class -> lastModified(1623230025160)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$2.class -> lastModified(1623230025158)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$3.class -> lastModified(1623230025161)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$4.class -> lastModified(1623230025162)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$5.class -> lastModified(1623230025164)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$6.class -> lastModified(1623230025166)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$$anonfun$main$1.class -> lastModified(1623230025167)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2$.class -> lastModified(1623230025155)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSpark2.class -> lastModified(1623230025151)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSparkJobs$.class -> lastModified(1623230025169)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\build\classes\main\ChessAnalysisSparkJobs.class -> lastModified(1623230025168)
+source stamps:
+3 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> hash(9963fd7186a3e83a3bdda69b2e715c95e2737772)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> hash(3c087abcbd6ae0c6a94e28094a4fc5132ed22f45)
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> hash(1fcc3a2ccf3e7f8947404fd8b07eaa675695cc1b)
+binary stamps:
+5 items
+C:\Program Files (x86)\Java\jdk1.8.0_192\jre\lib\rt.jar -> lastModified(1541097922653)
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\com.univocity\univocity-parsers\2.7.3\2d7b2cbe31d203333e0ce2b99ddb9f8afa03fc42\univocity-parsers-2.7.3.jar -> lastModified(1621678150809)
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-common\2.6.5\775c6ba9b08cf8ec42e27ea0730b69cc990c69ea\hadoop-common-2.6.5.jar -> lastModified(1621678158754)
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.4.0\2eebc2356fa310b7cc0308b672b08cecfe85eb70\spark-core_2.11-2.4.0.jar -> lastModified(1621678116777)
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar -> lastModified(1621678110522)
+class names:
+5 items
+C:\Program Files (x86)\Java\jdk1.8.0_192\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\com.univocity\univocity-parsers\2.7.3\2d7b2cbe31d203333e0ce2b99ddb9f8afa03fc42\univocity-parsers-2.7.3.jar -> com.univocity.parsers.csv.CsvParser
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.hadoop\hadoop-common\2.6.5\775c6ba9b08cf8ec42e27ea0730b69cc990c69ea\hadoop-common-2.6.5.jar -> org.apache.hadoop.fs.FileSystem
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.4.0\2eebc2356fa310b7cc0308b672b08cecfe85eb70\spark-core_2.11-2.4.0.jar -> org.apache.spark.SparkContext$
+C:\Users\Giovanni\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar -> scala.Int
+internal apis:
+3 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD0mwHAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAR3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMLVupB0AAZub3RpZnlzcQB+AAyMqG8odAAGZm9ybWF0c3EAfgAM8yvX8HQAB3VuYXBwbHlzcQB+AAwW10P3dAAHY3VycmllZHNxAH4ADHfloaR0AAxpc0NvbXByZXNzZWRzcQB+AAwekf3ndAACaXNzcQB+AAwHG8fjdAAEd2FpdHNxAH4ADPQ+2zZ0ABA8aW5pdD4kZGVmYXVsdCQ1c3EAfgAMnAp5ynQADmNvcHkkZGVmYXVsdCQyc3EAfgAMNHuWaHQADSRhc0luc3RhbmNlT2ZzcQB+AAyWBgu6dAAQPGluaXQ+JGRlZmF1bHQkNnNxAH4ADBFzVuh0AA9DU1ZSZWNvcmRXcml0ZXJzcQB+AAzaGMaBdAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4ADNccCdt0AAlDU1ZTb3VyY2VzcQB+AAzbSZrHdAAMcHJvZHVjdEFyaXR5c3EAfgAMG4nNAnQABmVxdWFsc3NxAH4ADDaMW+V0AAxhc0luc3RhbmNlT2ZzcQB+AAwF4VScdAAGcGFyc2Vyc3EAfgAMqTxqQHQADHN5bmNocm9uaXplZHNxAH4ADIHRkCB0AA5maWVsZERlbGltaXRlcnNxAH4ADEm3NOZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMnAz4i3QAEDxpbml0PiRkZWZhdWx0JDRzcQB+AAzRnpvFdAASQ2hlc3NBbmFseXNpc1NwYXJrc3EAfgAMUQbwsXQABnR1cGxlZHNxAH4ADALtH1p0AAhjYW5FcXVhbHNxAH4ADO8ezip0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADBqZ0kd0AARtYWluc3EAfgAMCmouv3QABXRvdGFsc3EAfgAMbNnZDHQADXByb2R1Y3RQcmVmaXhzcQB+AAybRTfvdAAIaXRlcmF0b3JzcQB+AAx8/AX5dAAJbm90aWZ5QWxsc3EAfgAMnDudV3QAC3JlYWRSZXNvbHZlc3EAfgAM+SW4tnQAB2lucEZpbGVzcQB+AAxgo7ZfdAAFZHJhd3NzcQB+AAwLPgiTdAAMaXNJbnN0YW5jZU9mc3EAfgAMrtK2VXQACnNraXBIZWFkZXJzcQB+AAzM5EaAdAAQPGluaXQ+JGRlZmF1bHQkM3NxAH4ADM447F50AAY8aW5pdD5zcQB+AAw5Dzr2dAAFYXBwbHlzcQB+AAxsXphYdAACPT1zcQB+AAzdIEFsdAAFY2xvbmVzcQB+AAypB14ddAAScmVkdWNlQ291bnRNZXRyaWNzc3EAfgAM4zR9n3QADENvdW50TWV0cmljc3NxAH4ADNzRFSZ0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADCnadUl0AARjb3B5c3EAfgAMDTmeXnQACHRvU3RyaW5nc3EAfgAMwvPEJXQACXVuemlwRGF0YXNxAH4ADLFIVRJ0AAIhPXNxAH4ADFY0ULd0AA1nbG9iYWxVc2VkUGN0c3EAfgAMDxQQHHQAEWdsb2JhbFVzZWRQZXJjZW50c3EAfgAM5CzygHQACGdldENsYXNzc3EAfgAMRqxpGHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMH07UD3QABWNsb3Nlc3EAfgAMaplyhHQAAm5lc3EAfgAMC7dprHQACndpblBlcmNlbnRzcQB+AAybhShRdAAJdGV4dFF1b3Rlc3EAfgAMpeQcPXQAA2FkZHNxAH4ADBFojtN0ABBDU1ZTb3VyY2VPcHRpb25zc3EAfgAMcmXeq3QAAmZzc3EAfgAM0tHg4XQABHdpbnNzcQB+AAwZZ0RhdAAGbG9zc2Vzc3EAfgAM2x5VXHQAEDxpbml0PiRkZWZhdWx0JDJzcQB+AAzr/hQ1dAACZXFzcQB+AAxK79S7dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMVKriGXQACHNldHRpbmdzc3EAfgAM2oUXkXQAAiMjc3EAfgAMxj1j8nQACGZpbmFsaXplc3EAfgAMF12r43QAC2NvbHVtbkNvdW50c3EAfgAM36G/OXQADnByb2R1Y3RFbGVtZW50c3EAfgAM+wt2SnQACGhhc2hDb2Rlc3EAfgAMlh4OLXQABmFwcGVuZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AO3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AL14cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALwAcHNxAH4AwXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgClTAAJaW5oZXJpdGVkcQB+AKVMAAdwYXJlbnRzcQB+AKV4cQB+AMVzcQB+ALwAcHNxAH4AwXVxAH4AoAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ApnEAfgCvdXEAfgCwAAAAAHNxAH4AsgBxAH4AQ3VxAH4AtAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDEdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AxHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A4nVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AM94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ALd0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ANZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMRzcQB+ANV0AAVBcnJheXEAfgDbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+ANV0AAZTdHJpbmdzcQB+ANlzcQB+ANx1cQB+AN8AAAADc3EAfgDhdAAEamF2YXNxAH4A4XQABGxhbmdxAH4A5nNxAH4AvABwc3EAfgDBdXEAfgCgAAAAAHNxAH4AvABwc3EAfgDBdXEAfgD6AAAAAnNxAH4A1XQABk9iamVjdHEAfgD+c3EAfgDVdAADQW55cQB+ANt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABefAMfQN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfRDpcVU5JVkVSU0lUQSdcTWFnaXN0cmFsZVxCaWdfRGF0YVxQcm9nZXR0b1xleGFtLXByb2plY3QtR2lvdmFubmlQb2dnaVxzcGFya1xidWlsZFxjbGFzc2VzXG1haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSZY/1xhqPoOjvdppsucVyV4nN3cg==
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAMxkjcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cO18duZ0AAZub3RpZnlzcQB+AAw/mY9BdAAEd2FpdHNxAH4ADJyx8X90AA0kYXNJbnN0YW5jZU9mc3EAfgAM3gX2/nQABmVxdWFsc3NxAH4ADP+LTvR0AAxhc0luc3RhbmNlT2ZzcQB+AAwbQzMjdAAMc3luY2hyb25pemVkc3EAfgAM+1jLmnQADSRpc0luc3RhbmNlT2ZzcQB+AAwv+V+XdAAEbWFpbnNxAH4ADNsM2hh0AAlub3RpZnlBbGxzcQB+AAy2uIB3dAAMaXNJbnN0YW5jZU9mc3EAfgAMksY0tnQAE0NoZXNzQW5hbHlzaXNTcGFyazJzcQB+AAwP41aYdAACPT1zcQB+AAwrPsmqdAAFY2xvbmVzcQB+AAwnac0ydAAIdG9TdHJpbmdzcQB+AAzQponddAACIT1zcQB+AAzRwoVLdAAIZ2V0Q2xhc3NzcQB+AAzXczZ4dAACbmVzcQB+AAxR+1YOdAACZXFzcQB+AAw1+tWvdAACIyNzcQB+AAza7FsIdAAIZmluYWxpemVzcQB+AAynt/kwdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXnwDH0DdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAX0Q6XFVOSVZFUlNJVEEnXE1hZ2lzdHJhbGVcQmlnX0RhdGFcUHJvZ2V0dG9cZXhhbS1wcm9qZWN0LUdpb3Zhbm5pUG9nZ2lcc3BhcmtcYnVpbGRcY2xhc3Nlc1xtYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPAh6vL1q4MapTigJSk/FEy7SL0U=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDFwSFpAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ0PI2d0AAZub3RpZnlzcQB+AAxbDFGYdAAEd2FpdHNxAH4ADCD9oNZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMG3uqcHQABmVxdWFsc3NxAH4ADJXFSqh0AAxhc0luc3RhbmNlT2ZzcQB+AAyKWkuldAAMc3luY2hyb25pemVkc3EAfgAM6XONaHQADSRpc0luc3RhbmNlT2ZzcQB+AAyXP7JNdAAEbWFpbnNxAH4ADOXW8et0AAlub3RpZnlBbGxzcQB+AAyBe3IxdAAMaXNJbnN0YW5jZU9mc3EAfgAMkuACM3QAAj09c3EAfgAMvKCL9XQABWNsb25lc3EAfgAMGChFD3QAFkNoZXNzQW5hbHlzaXNTcGFya0pvYnNzcQB+AAyuo1IudAAIdG9TdHJpbmdzcQB+AAx/9SBAdAACIT1zcQB+AAwSswdpdAAIZ2V0Q2xhc3NzcQB+AAzrv0bwdAACbmVzcQB+AAyuR7oYdAACZXFzcQB+AAxvmv8kdAACIyNzcQB+AAy7mvspdAAIZmluYWxpemVzcQB+AAytKft6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXnwDH0DdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAX0Q6XFVOSVZFUlNJVEEnXE1hZ2lzdHJhbGVcQmlnX0RhdGFcUHJvZ2V0dG9cZXhhbS1wcm9qZWN0LUdpb3Zhbm5pUG9nZ2lcc3BhcmtcYnVpbGRcY2xhc3Nlc1xtYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUH8w6LM8+f4lHQE/YsH6qZ1aVzBs=
+external apis:
+0 items
+source infos:
+3 items
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark.scala -> 
+AAAAAAAAAAA=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSpark2.scala -> 
+AAAAAAAAAAA=
+D:\UNIVERSITA'\Magistrale\Big_Data\Progetto\exam-project-GiovanniPoggi\spark\src\main\scala\ChessAnalysisSparkJobs.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABefAMfQN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAX0Q6XFVOSVZFUlNJVEEnXE1hZ2lzdHJhbGVcQmlnX0RhdGFcUHJvZ2V0dG9cZXhhbS1wcm9qZWN0LUdpb3Zhbm5pUG9nZ2lcc3BhcmtcYnVpbGRcY2xhc3Nlc1xtYWludAABLw==
